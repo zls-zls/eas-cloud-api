@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/jackson-annotations-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/jackson-core-2.1.0.jar" sourcepath="C:/Users/张李栓/AppData/Local/Temp/.org.sf.feeling.decompiler1570888456306/source/jackson-core-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/k3cloud-webapi-client/k3cloud-webapi-client/libs/jackson-databind-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/张李栓/Desktop/打印/k3bos开发/jar/k3cloud-webapi-client.jar"/>
+	<classpathentry kind="lib" path="E:/Program Files (x86)/Kingdee/K3Cloud/Tools/PackageTool/Private/Newtonsoft.Json.dll"/>
+	<classpathentry kind="lib" path="json1/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="json1/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="json1/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="json1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="json1/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="json1/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/张李栓/Desktop/操作手册/cloud/fastjson/fastjson-1.1.33.jar" sourcepath="C:/Users/张李栓/AppData/Local/Temp/.org.sf.feeling.decompiler1570930903673/source/fastjson-1.1.33-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/张李栓/Desktop/操作手册/cloud/fastjson/fastjson-1.1.33-sources.jar"/>
+	<classpathentry kind="lib" path="json1/bejson_gen_beans.jar"/>
+	<classpathentry kind="lib" path="json1/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="src/jax2/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jax2/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="src/jax2/jaxb-core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="src/jax2/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
